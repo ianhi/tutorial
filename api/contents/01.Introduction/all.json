@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-10T01:03:56.599321Z",
+      "format": null,
+      "last_modified": "2022-07-10T01:02:51.311409Z",
+      "mimetype": null,
+      "name": "01.00-introduction.ipynb",
+      "path": "01.Introduction/01.00-introduction.ipynb",
+      "size": 7395,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-10T01:03:56.599321Z",
+      "format": null,
+      "last_modified": "2022-07-10T01:02:51.311409Z",
+      "mimetype": null,
+      "name": "01.01-overview.ipynb",
+      "path": "01.Introduction/01.01-overview.ipynb",
+      "size": 3398,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-10T01:03:56.599321Z",
+  "format": "json",
+  "last_modified": "2022-07-10T01:03:56.599321Z",
+  "mimetype": null,
+  "name": "01.Introduction",
+  "path": "01.Introduction",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
