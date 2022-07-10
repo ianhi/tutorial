@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-10T01:03:56.639321Z",
+      "created": "2022-07-10T01:09:43.888525Z",
       "format": null,
-      "last_modified": "2022-07-10T01:02:51.323409Z",
+      "last_modified": "2022-07-10T01:08:45.843925Z",
       "mimetype": "text/x-python",
       "name": "box-widget.py",
       "path": "06.More_widget_libraries/extras/extra_examples/solutions/bqplot-as-control/box-widget.py",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-10T01:03:56.639321Z",
+      "created": "2022-07-10T01:09:43.888525Z",
       "format": null,
-      "last_modified": "2022-07-10T01:02:51.323409Z",
+      "last_modified": "2022-07-10T01:08:45.843925Z",
       "mimetype": "text/x-python",
       "name": "update_line.py",
       "path": "06.More_widget_libraries/extras/extra_examples/solutions/bqplot-as-control/update_line.py",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-10T01:03:56.639321Z",
+  "created": "2022-07-10T01:09:43.888525Z",
   "format": "json",
-  "last_modified": "2022-07-10T01:03:56.639321Z",
+  "last_modified": "2022-07-10T01:09:43.888525Z",
   "mimetype": null,
   "name": "bqplot-as-control",
   "path": "06.More_widget_libraries/extras/extra_examples/solutions/bqplot-as-control",
